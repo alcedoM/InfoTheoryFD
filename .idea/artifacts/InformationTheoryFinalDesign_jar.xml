@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InformationTheoryFinalDesign:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InformationTheoryFinalDesign_jar</output-path>
+    <root id="archive" name="InformationTheoryFinalDesign.jar">
+      <element id="module-output" name="InformationTheoryFinalDesign" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/af-swing-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
